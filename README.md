@@ -28,7 +28,7 @@ pase cerca de sus hogares, luego le dan a seleccionar viaje y esperan la hora pa
 
 -- QR: 
 
-<img src="https://user-images.githubusercontent.com/81185251/146472567-067e62db-ec53-4b36-a0f9-940512655e5b.png" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/81185251/146548329-48d97267-6f87-4c16-ad55-8e7efbda4b6a.png" width="200" height="200" />
 
 
 
