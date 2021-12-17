@@ -13,7 +13,8 @@ pase cerca de sus hogares, luego le dan a seleccionar viaje y esperan la hora pa
 
 LINK DE DESCARGA: https://www.mediafire.com/file/tr0ir4luehsvkmf/TeLlevoAPP.apk/file
 
-QR:
+QR: ![qr-code](https://user-images.githubusercontent.com/81185251/146472567-067e62db-ec53-4b36-a0f9-940512655e5b.png)
+
 
 
 
