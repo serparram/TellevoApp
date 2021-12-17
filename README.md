@@ -1,9 +1,20 @@
 # TellevoApp
 
 
-TellevoApp es una aplicacion creada para los alumnos de Duoc UC que tienen poca movilizacion hacia sus hogares y puedan llegar a una buena hora y sin ningun problema.
-La aplicacion TellevoApp tiene dos secciones una que es para los alumnos que tienen auto que se denomina Conductor que tiene las funcionalidades de crear
-una ruta, eso consiste 
+TellevoApp es una aplicación creada para los alumnos de Duoc UC que tienen poca movilización hacia sus hogares y puedan llegar a una buena hora y sin ningún problema.
+
+La aplicación TellevoApp tiene dos secciones una que es para los alumnos que tienen auto que se denomina "Conductor" que tiene las funcionalidades de crear
+una ruta, eso consiste en iniciar la sesión en conductor para luego indicar el punto de comienzo y de final del viaje, después se indica la disponibilidad 
+de asiento para luego dar un valor al viaje y finalmente crear el viaje.
+
+La sección de Pasajero es para los alumnos que no cuentan con una buena locomoción a sus hogares.
+Los alumnos inician sesión en pasajero para seleccionar el botón buscar viajes y luego poder seleccionar algún viaje que les sirva y 
+pase cerca de sus hogares, luego le dan a seleccionar viaje y esperan la hora para tomar el automóvil e iniciar el viaje y tener un buen regreso a sus hogares.
+
+LINK DE DESCARGA: https://www.mediafire.com/file/tr0ir4luehsvkmf/TeLlevoAPP.apk/file
+
+QR:
+
 
 
 ![pixlr-bg-result](https://user-images.githubusercontent.com/81185251/146471531-d2b5f754-5b55-46b1-9d3f-9ce1c6add7c6.png)
